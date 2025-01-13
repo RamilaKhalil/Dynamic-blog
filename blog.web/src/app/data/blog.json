@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "nextjs-dynamic-routing",
+    "title": "Understanding Dynamic Routing in Next.js",
+    "description": "Learn how to implement dynamic routing in Next.js with the App Router.",
+    "date": "January 5, 2025"
+  },
+  {
+    "slug": "tailwind-css-basics",
+    "title": "Getting Started with Tailwind CSS",
+    "description": "A beginner's guide to using Tailwind CSS in modern web projects.",
+    "date": "January 3, 2025"
+  }
+]
